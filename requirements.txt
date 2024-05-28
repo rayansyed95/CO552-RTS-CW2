@@ -1,0 +1,5 @@
+
+### requirements.txt
+
+# additional dependencies required for the project to be listed here
+
