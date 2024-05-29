@@ -71,7 +71,7 @@ FASAM/
 1. Navigate to the tests directory:
    cd tests
 2. Run the test cases:
-   python test_control_area.py
+   python test_control_area.py -v
 
 ## Contributing
 
