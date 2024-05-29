@@ -13,12 +13,19 @@ This project implements a Fire and Security Alarm Monitoring System (FASAM) for 
 ## Project Structure
 
 FASAM/
+
 ├── src/
+
 │ ├── main.py
+
 │ ├── control_area.py
+
 ├── tests/
+
 │ ├── test_control_area.py
+
 ├── README.md
+
 ├── requirements.txt
 
 ### Directory and File Breakdown
@@ -64,7 +71,7 @@ FASAM/
 1. Navigate to the tests directory:
    cd tests
 2. Run the test cases:
-   python -m unittest test_control_area.py
+   python test_control_area.py
 
 ## Contributing
 
@@ -76,4 +83,4 @@ FASAM/
 
 ## Contact
 
-    For questions or suggestions, please open an issue or contact your-email@example.com.
+    For questions or suggestions, please open an issue or contact rayanyousuf95@gmail.com
